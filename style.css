@@ -1,0 +1,64 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;  
+}
+
+body {
+    background-color: rgb(190, 233, 232);
+    padding: 3%;
+}
+#minha-foto {
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: green;
+
+ }
+
+strong {
+    font-size: larger;
+}
+
+.unix {
+    font-size: larger;
+}
+
+.shell {
+    font-size: small;
+}
+
+.git {
+    font-size: smaller;
+}
+
+.github {
+    font-size: x-large;
+}
+
+.html {
+    font-size: x-small;
+}
+ .descrição {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+   top: 115px;
+   left: 15px;
+
+   
+ }
+ 
+
+.image-container {
+    height: 300px;
+}
+
+ .meuNome {
+    text-align: center;
+ }
+ .impar li:nth-child(odd) {
+    background-color: fuchsia;
+ }
+ 
+
+ div {
+    border: solid red;
+ }
